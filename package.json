@@ -1,0 +1,26 @@
+{
+  "name": "bongloy-client",
+  "description": "React Native Bongloy wrapper that makes using Stripe with React Native safe and easy in iOS/Android.",
+  "keywords": [
+    "bongloy",
+    "payment processing",
+    "credit cards",
+    "api",
+    "react-native",
+    "react",
+    "native",
+    "token"
+  ],
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/james1888/bongloy-client.git"
+  },
+  "author": "Thor Mengkheang",
+  "bugs": {
+    "url": "https://github.com/james1888/bongloy-client/issues"
+  },
+  "homepage": "https://github.com/james1888/bongloy-client#readme"
+}
