@@ -1,5 +1,7 @@
 # Bongloy Client
 
+[![Build Status](https://travis-ci.org/james1888/bongloy-client.svg?branch=master)](https://travis-ci.org/james1888/bongloy-client)
+
 React Native Bongloy wrapper that makes using [Bongloy](https://www.bongloy.com/) with React Native easy in iOS/Android.
 
 ## Features
