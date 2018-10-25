@@ -1,6 +1,6 @@
 {
   "name": "bongloy-client",
-  "description": "React Native Bongloy wrapper that makes using Stripe with React Native safe and easy in iOS/Android.",
+  "description": "React Native Bongloy wrapper that makes using Bongloy with React Native safe and easy in iOS/Android.",
   "keywords": [
     "bongloy",
     "payment processing",
@@ -22,5 +22,17 @@
   "bugs": {
     "url": "https://github.com/james1888/bongloy-client/issues"
   },
-  "homepage": "https://github.com/james1888/bongloy-client#readme"
+  "homepage": "https://github.com/james1888/bongloy-client#readme",
+  "devDependencies": {
+    "fetch-mock": "^5.12.1",
+    "jasmine-promise-wrapper": "^0.0.3",
+    "jest-expo": "^18.0.0",
+    "react-native": "^0.46.0"
+  },
+  "scripts": {
+    "test": "node_modules/jest/bin/jest.js"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  }
 }
