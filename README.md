@@ -162,7 +162,7 @@ Where can I find more information about creating tokens in Bongloy?
 - Because of Bongloy and Stripe is almost the same. Please Check out the Stripe docs at https://stripe.com/docs/api/node#tokens .
 
 Help! I don't know where to find 'YOUR_PUBLISHABLE_BONGLOY_API_KEY' ?
-- Make an account on Bongloy (if you haven't already) and check out https://sandbox.bongloy.com/dashboard/account/edit .
+- Make an account on Bongloy (if you haven't already) and check out https://bongloy.com/dashboard/account/edit .
 
 Is it okay to publish my Bongloy API key in the Expo / React Native application?
 - It's 100% fine to publish your Bongloy Publishable key, as the publishable key has no dangerous permissions. Make sure not to publish your Bongloy Secret key, as this is the key that would allow people to charge money when used.
