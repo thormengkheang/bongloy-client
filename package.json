@@ -16,13 +16,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/james1888/bongloy-client.git"
+    "url": "git+https://github.com/thormengkheang/bongloy-client.git"
   },
   "author": "Thor Mengkheang",
   "bugs": {
-    "url": "https://github.com/james1888/bongloy-client/issues"
+    "url": "https://github.com/thormengkheang/bongloy-client/issues"
   },
-  "homepage": "https://github.com/james1888/bongloy-client#readme",
+  "homepage": "https://github.com/thormengkheang/bongloy-client#readme",
   "devDependencies": {
     "fetch-mock": "^5.12.1",
     "jasmine-promise-wrapper": "^0.0.3",
